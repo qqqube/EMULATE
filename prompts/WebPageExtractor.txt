@@ -1,0 +1,7 @@
+The following text is the result of visiting {{URL}} and converting the HTML page into plain ASCII text.
+Output only the important parts of the text that someone visiting the website would most likely read and focus on.
+Retain the order of the extracted parts. 
+
+Content of webpage:
+
+{{webpage_text}}

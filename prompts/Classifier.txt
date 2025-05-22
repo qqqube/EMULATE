@@ -1,0 +1,10 @@
+Your task is to determine if the following claim is true or false: {{claim}}
+
+Here is a set of search results that have been collected so far to help with the task. Each result contains a title, a URL, and the content on the webpage.
+
+{{memory_bank}}
+
+
+Based on the search results, determine the veracity of the aforementioned claim.
+If no search results are provided, answer based on your own knowledge.
+Just output either True or False.

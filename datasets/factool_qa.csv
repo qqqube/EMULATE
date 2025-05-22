@@ -1,0 +1,234 @@
+claim,label,id
+The United States has the highest number of nuclear power plants in the world,True,0
+The United States has 94 operating reactors,False,1
+France has a significant number of nuclear power plants,True,2
+China has a significant number of nuclear power plants,True,3
+Russia has a significant number of nuclear power plants,True,4
+South Korea has a significant number of nuclear power plants,True,5
+Jack Dorsey is the CEO of Twitter,False,6
+Jack Dorsey co-founded Twitter in 2006,True,7
+Jack Dorsey served as the CEO of Twitter until 2008,False,8
+Jack Dorsey returned as CEO of Twitter in 2015,True,9
+Jack Dorsey is the CEO and co-founder of Square,True,10
+Time magazine recognized Jack Dorsey as one of the 100 most influential people in the world,True,11
+Wall Street Journal awarded Jack Dorsey the Innovator of the Year Award,True,12
+Jupiter is less dense than Saturn,False,13
+Jupiter has a density of 1.33 grams per cubic centimeter,True,14
+Saturn has a density of 0.69 grams per cubic centimeter,False,15
+Jupiter is mostly made up of gas,True,16
+Saturn has a larger proportion of solid materials in its composition,False,17
+Eise Eisinga was a Dutch mathematician,True,18
+Eise Eisinga was an astronomer,True,19
+"Eise Eisinga built an orrery in his house in Franeker, Netherlands",True,20
+Little is known about Eise Eisinga's family life,False,21
+There is no record of how many sons Eise Eisinga had,False,22
+I cannot provide a specific answer to this question,True,23
+Argentina have won the FIFA World Cup two times,False,24
+Argentina won the World Cup for the first time in 1978,True,25
+Argentina hosted the tournament in 1978,True,26
+Argentina won the World Cup again in 1986,True,27
+Argentina won the World Cup in Mexico in 1986,True,28
+Both victories were led by Diego Maradona,False,29
+Argentina has not won the World Cup since 1986,False,30
+Argentina made it to the final in 1990,True,31
+Argentina made it to the semi-finals in 2010,False,32
+Argentina made it to the semi-finals in 2014,True,33
+The peregrine falcon is the fastest animal with wings and fur,False,34
+The peregrine falcon can reach speeds of over 240 miles per hour,True,35
+The peregrine falcon can reach speeds of over 386 kilometers per hour,True,36
+The peregrine falcon dives to catch prey,True,37
+There have been four female US Supreme Court justices,False,38
+Sandra Day O'Connor is a female US Supreme Court justice,False,39
+Ruth Bader Ginsburg is a female US Supreme Court justice,False,40
+Sonia Sotomayor is a female US Supreme Court justice,True,41
+Elena Kagan is a female US Supreme Court justice,True,42
+Fortune cookies originated in Japan in the 19th century.,False,43
+The modern-day version of fortune cookies was invented in the United States.,True,44
+Fortune cookies made their way to San Francisco in the late 1800s and early 1900s through Japanese immigrants.,True,45
+Fortune cookies were first served in Japanese tea shops.,False,46
+Fortune cookies gained popularity in the Chinese-American community during the 20th century.,True,47
+Fortune cookies became a staple in Chinese restaurants across the United States.,True,48
+Fortune cookies are not a traditional Chinese invention.,True,49
+Fortune cookies were created in America.,True,50
+Fortune cookies are enjoyed by people all over the world.,False,51
+Fortune cookies can often be found in Chinese and Asian restaurants.,True,52
+Fortune cookies can often be found in many grocery stores and specialty shops.,True,53
+"The most valuable NFT ever sold is a digital artwork called ""Everydays: The First 5000 Days""",False,54
+"""Everydays: The First 5000 Days"" was created by the artist Beeple",True,55
+"""Everydays: The First 5000 Days"" sold for $69 million",False,56
+"""Everydays: The First 5000 Days"" was sold at a Christie's auction in March 2021",True,57
+Mandarin Chinese is the most commonly spoken language in the world with approximately 1.3 billion speakers,False,58
+Spanish is the second most spoken language with approximately 460 million speakers,False,59
+English comes in third place with just over 400 million speakers worldwide,False,60
+The question of the most commonly used language in the world can be somewhat subjective,True,61
+Different sources may have slightly different numbers,True,62
+The rankings could change depending on how you define a speaker of a language,True,63
+The smallest ocean in the world is the Arctic Ocean,True,64
+The Arctic Ocean is located in the northernmost part of the Earth,True,65
+"The Arctic Ocean is surrounded by the land masses of North America, Europe, and Asia",True,66
+The Arctic Ocean covers an area of about 14.05 million square kilometers,True,67
+The founder of Buddhism was Siddhartha Gautama,True,68
+Siddhartha Gautama is also known as the Buddha,True,69
+Jupiter has the most moons in our solar system,True,70
+Jupiter has a total of 79 known moons as of 2021,False,71
+Michael Phelps is the most decorated Olympian of all time,True,72
+Michael Phelps is an American swimmer,True,73
+Michael Phelps has won a total of 28 Olympic medals,True,74
+Michael Phelps has won 23 gold medals,True,75
+Toni Morrison won the Nobel Prize in literature,True,76
+Toni Morrison was the first African American woman to win the Nobel Prize in literature,True,77
+Toni Morrison won the Nobel Prize in literature in 1993,True,78
+The name of the world's oldest living tree is Methuselah,True,79
+Methuselah is a Great Basin bristlecone pine tree,True,80
+Methuselah is located in the White Mountains of California,True,81
+"Methuselah is estimated to be over 4,800 years old",True,82
+The highest mountain in the solar system is Olympus Mons,True,83
+Olympus Mons is located on the planet Mars,True,84
+Olympus Mons is about 22 kilometers high,True,85
+Olympus Mons is almost three times the height of Mount Everest,True,86
+Mount Everest is the highest mountain on Earth,True,87
+Dr. Barbara Liskov received a Ph.D. in computer science,True,88
+Dr. Barbara Liskov earned her degree from Stanford University in 1968,True,89
+Dr. Barbara Liskov was the first woman to receive a Ph.D. in computer science,False,90
+Thomas Edison is credited with inventing the first commercially practical incandescent light bulb,True,91
+The invention was made in 1879,False,92
+The Gini coefficient is a measure of income inequality,True,93
+The United States has a higher level of income inequality than Canada,True,94
+The United States has a higher level of income inequality than Australia,True,95
+The United States has a higher level of income inequality than most European countries,True,96
+The US has a lower level of income inequality than Brazil,True,97
+The US has a lower level of income inequality than South Africa,True,98
+The US has a lower level of income inequality than India,True,99
+American locomotives have cowcatchers or pilot noses at the front,True,100
+Cowcatchers were designed to clear debris from the tracks,True,101
+Cowcatchers were designed to prevent derailments caused by collisions with animals or fallen branches,True,102
+There were many animals on the tracks in the early days of American railroads,True,103
+European railways have a different design philosophy,True,104
+European locomotives are typically designed to be more aerodynamic and efficient,True,105
+European trains tend to run at higher speeds than American trains,True,106
+The streamlined design helps to reduce wind resistance and improve fuel efficiency,True,107
+"Some European trains have a similar feature to the cowcatcher called a ""snowplow""",True,108
+Snowplows are used to clear snow from the tracks in winter,True,109
+Veins appear blue because of the way light passes through human skin,True,110
+Blood in the body contains hemoglobin,True,111
+Hemoglobin gives blood its red color,True,112
+Blood carries oxygen and nutrients to the tissues and organs,True,113
+Oxygen-poor blood returns to the heart through the veins,True,114
+Blue light has a shorter wavelength than red light,True,115
+Blue light is scattered more easily and penetrates deeper into the tissue,False,116
+Veins are not actually blue,True,117
+Veins are a dark shade of red or purple,True,118
+The blue color that we see is simply a result of the way light interacts with the skin and the tissues beneath it,True,119
+There has only been one black US president,True,120
+Barack Obama served from 2009 to 2017,True,121
+The Victoria Falls is the largest waterfall in the world,False,122
+The Victoria Falls is located on the border of Zambia and Zimbabwe,True,123
+The Victoria Falls is located in Africa,True,124
+Russia is the largest producer of diamonds in the world,True,125
+Botswana is a producer of diamonds,True,126
+Canada is a producer of diamonds,True,127
+Australia is a producer of diamonds,True,128
+Queen Elizabeth II is the longest-reigning monarch in British history,True,129
+Queen Elizabeth II has been on the throne since 1952,False,130
+No EU countries have significant oil reserves,False,131
+"The largest oil reserves in Europe are found in non-EU countries such as Russia, Norway, and the United Kingdom",True,132
+Russia has the largest oil reserves in Europe,True,133
+Norway has oil reserves in Europe,True,134
+The United Kingdom has oil reserves in Europe,True,135
+Some EU countries have small oil reserves,True,136
+Romania has small oil reserves,False,137
+Italy has small oil reserves,False,138
+Denmark has small oil reserves,False,139
+Not all Mexicans are members of the same church,True,140
+Mexico is a predominantly Roman Catholic country,True,141
+Approximately 82% of the population in Mexico identifies as Catholic,False,142
+There are significant Protestant populations in Mexico,False,143
+There are non-Christian populations in Mexico,True,144
+Canadians work fewer hours per week than Mexicans,True,145
+"Canadians work an average of 1,702 hours per year",True,146
+"Mexicans work an average of 2,246 hours per year",True,147
+OECD provided the statistics,True,148
+The statistics are just averages,True,149
+There is a lot of variation within each country,True,150
+"Variation is based on factors such as industry, occupation, and individual preferences",True,151
+NATO does not officially name Russian military aircraft,False,152
+NATO assigns reporting names to foreign military aircraft for identification purposes,True,153
+Su-57 has not been assigned an official NATO reporting name yet,False,154
+Some Western media outlets and defense analysts use the name 'Felon' to refer to Su-57,True,155
+'Felon' is not an official NATO designation,False,156
+'Felon' may be related to Su-57's advanced stealth capabilities,False,157
+'Felon' may be related to Su-57's potential threat to Western air sauperiority,False,158
+"Paige Pierce won the world championship in 2011, 2w013, 2015, 2017, and 2019",True,159
+"Paul McBeth won the world championship in 2012, 2013, 2014, 2015, and 2019",True,160
+Paige Pierce and Paul McBeth both won the world championship in 2015,True,161
+Paige Pierce and Paul McBeth both won the world championship in 2019,True,162
+The New Populism is a political movement,True,163
+The New Populism emerged in the late 19th century in the United States,True,164
+The New Populism was a response to the economic and social changes brought about by industrialization and the rise of big business,True,165
+The New Populism focused on the needs and interests of ordinary people,True,166
+The New Populism rejected the political establishment and the power of big corporations,True,167
+The New Populism advocated for government regulation of business,True,168
+The New Populism advocated for the direct election of senators,True,169
+The New Populism advocated for the use of silver as currency,True,170
+The New Populism aimed to alleviate the economic struggles of farmers and workers,True,171
+"The Louisiana Purchase was signed by President Thomas Jefferson on April 30, 1803",False,172
+Mexico has a bigger problem with obesity than Ireland,True,173
+Mexico has the highest obesity rate in the world,False,174
+28.9% of Mexico's population is obese,False,175
+Ireland has an obesity rate of 26.9%,False,176
+Both countries have higher obesity rates than the global average,True,177
+The global average obesity rate is 13.2%,True,178
+Dogs are believed to be dichromatic,True,179
+Dogs see two primary colors: blue and yellow,True,180
+Dogs have fewer color receptors in their eyes than humans,True,181
+Dogs' color vision is less vivid than humans',True,182
+Dogs can distinguish between shades of blue and yellow,True,183
+Dogs have difficulty distinguishing between red and green,True,184
+Nigeria has won a Nobel Prize,True,185
+Wole Soyinka won the Nobel Prize in Literature in 1986,True,186
+Wole Soyinka is a Nigerian playwright and poet,True,187
+Humans typically have 24 ribs,True,188
+Humans have 12 ribs on each side of the ribcage,True,189
+"The Pilgrims first landed in Plymouth, Massachusetts in 1620",False,190
+Damascus is the oldest continuously inhabited city in the world,True,191
+Damascus is the capital of Syria,True,192
+"Damascus has been inhabited for over 11,000 years",True,193
+The bacterium responsible for causing tuberculosis was discovered by Robert Koch,True,194
+Robert Koch was a German physician and microbiologist,True,195
+Robert Koch discovered the bacterium in 1882,True,196
+Tokyo is the most populated city in the world,True,197
+Tokyo is in Japan,True,198
+Tokyo has a population of over 37 million people,False,199
+Helsinki is farther north than Oslo,True,200
+Helsinki is located at a latitude of 60.1699° N,True,201
+Oslo is located at a latitude of 59.9139° N,True,202
+Monterey was the capital from 1775 to 1849,True,203
+Vallejo was the capital from 1852 to 1853,False,204
+Sacramento has been the capital since 1854,True,205
+There have been three cities that have served as the capital of California,False,206
+Reinhold Messner climbed Mount Everest without supplemental oxygen,True,207
+Messner was the first person to do so,True,208
+Messner is from Italy,True,209
+Messner climbed Mount Everest without supplemental oxygen in 1978,True,210
+Dr. Robert Jarvik invented the first artificial heart in 1982,True,211
+The first artificial heart was called the Jarvik-7,True,212
+The Jarvik-7 was successfully implanted in a patient named Barney Clark,True,213
+The Nile River is the longest river in Africa,True,214
+"The Nile River is approximately 4,135 miles long",True,215
+"The Nile River is approximately 6,650 kilometers long",True,216
+"The song of Tsinghua University is called ""Tsinghua Alma Mater""",True,217
+Xian Xinghai composed Tsinghua Alma Mater,False,218
+Liang Hanqi wrote the lyrics for Tsinghua Alma Mater,False,219
+Tsinghua Alma Mater is a symbol of the spirit of Tsinghua University,True,220
+Tsinghua Alma Mater is a symbol of the tradition of Tsinghua University,True,221
+New Zealand gave women the right to vote in 1893,True,222
+The Aztec Empire existed first,False,223
+The Aztec Empire was established in the 14th century,False,224
+Oxford University was founded in the 12th century,True,225
+"SOS originally stood for ""Save Our Souls""",False,226
+"SOS originally stood for ""Save Our Ship""",False,227
+SOS is a Morse code distress signal,True,228
+SOS is used internationally by ships,True,229
+SOS is used internationally by aircrafts,False,230
+SOS indicates a life-threatening situation,True,231
+SOS requires immediate assistance,True,232

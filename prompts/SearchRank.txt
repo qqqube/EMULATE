@@ -1,0 +1,11 @@
+The following search query was submitted to a search engine: {{search_query}}
+
+Here are the results that were returned:
+{{results}}
+
+Rank the results according to credibility and relevance to the original search query.
+Credibility should be determined based on the URL of each result. Relevance can be determined by the title and snippet.
+Output a sorted list of the results and refer to each result by its position.
+Results at the beginning of the list should be the most credible and relevant.
+Just output the list of positions and nothing else.
+Use the following format: <position 1> | <position 2> | ...

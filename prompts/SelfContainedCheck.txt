@@ -1,0 +1,16 @@
+Your task is to determine if the following claim is true or false: {{claim}}
+
+Here is a set of search results that have been collected so far to help with the task. Each result contains a title, a URL, and the content on the webpage.
+
+{{memory_bank}}
+
+
+Here is a new search result:
+
+{{new_result}}
+
+
+Now determine if the content of the new search result can be comprehended or not.
+Note that you should only be evaluating parts of the new content that could be helpful for determining if the aforementioned claim is true or false.
+If the content can be comprehended, it can either be (1) self-contained or (2) not self-contained but comprehensible if you consider the information in the set of search results that have been collected so far.
+Just output either Yes or No.

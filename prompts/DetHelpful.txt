@@ -1,0 +1,15 @@
+Your task is to determine if the following claim is true or false: {{claim}}
+
+Here is a set of search results that have been collected so far to help with the task. Each result contains a title, a URL, and the content on the webpage.
+
+{{memory_bank}}
+
+
+Here is a new search result:
+
+{{new_result}}
+
+
+Now determine if the content of the new search result is helpful for determining the veracity of the claim.
+If the content is helpful, it is expected to provide new information that isn't already mentioned in the set of search results that have been collected so far.
+Just output either Yes or No.

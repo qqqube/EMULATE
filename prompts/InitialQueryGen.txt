@@ -1,0 +1,4 @@
+Here is a claim: {{claim}}
+You need to determine if this claim is true or false.
+Output a Google search query that you think will help with completing the task.
+Just output the query and nothing else.
