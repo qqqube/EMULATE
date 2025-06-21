@@ -1,5 +1,12 @@
 # EMULATE: A Multi-Agent Framework for Determining the Veracity of Atomic Claims by Emulating Human Actions
 
+
+This is the official repository for [***EMULATE: A Multi-Agent Framework for Determining the Veracity of Atomic Claims by Emulating Human Actions***](https://arxiv.org/pdf/2505.16576), which was accepted at FEVER 2025 (co-located with ACL 2025).
+  
+
+![Algorithm](./images/pseudocode.jpeg)
+
+
 To run the code, first create a virtual environment with Python 3.10.0 and install all necessary dependencies by doing the following:
 ```
 python3 -m venv venv
